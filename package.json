@@ -1,0 +1,17 @@
+{
+  "name": "@gilbertsun/eslint-config-gs",
+  "version": "0.0.2",
+  "description": "A ESLint config for my personal(GilbertSun) project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "keywords": [
+    "ESLint",
+    "GilbertSun",
+    "TypeScript",
+    "React"
+  ],
+  "author": "",
+  "license": "ISC"
+}
